@@ -15,7 +15,7 @@ Here’s a screenshot of the chatbot in action:
 
 ![ChatBot Demo](src/assets/chatbot.PNG)
 
-Or try the **[Live Demo](https://your-website.com)**.
+Or try the **[Live Demo](https://react-chatbot1.netlify.app)**.
 
 ---
 
